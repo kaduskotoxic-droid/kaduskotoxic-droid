@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ethen Mutiso 
 
-<!--
-**kaduskotoxic-droid/kaduskotoxic-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning  programming in IYF Nairobi.
+- I'm interested in Programming, web development and data science
+- I'm looking to collaborate on beginner-friendly open source projects
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+-  Python, HTML/CSS and java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+
+## How to Reach Me
+- Email: ethenmutiso9@gmail.com
